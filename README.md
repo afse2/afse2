@@ -13,4 +13,4 @@
 ### Contact with me:
 
 <p align="left">
-<a href="http://twitter.com/afse0" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/twitter%20(2).png" title = "Twitter" alt="" height="30" /></a>
+<a href="http://twitter.com/afse0" target="blank"><img align="center" src="https://github.com/afse2/afse2/blob/main/twitter%20(2).png" title = "Twitter" alt="" height="30" /></a>
