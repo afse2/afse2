@@ -19,7 +19,7 @@
 </p>
 
 ### Let's play together:
-a href="https://discordapp.com/" target="blank"><img align="center" src="https://github.com/afse2/afse2/blob/main/discord.png" height="30" /></a>
+<a href=" " target="blank"><img align="center" src="https://github.com/afse2/afse2/blob/main/discord.png" height="30" /></a>
 <a href=" " target="blank"><img align="center" src="https://github.com/afse2/afse2/blob/main/Steam.png" height="30" /></a> 
 <a href=" " target="blank"><img align="center" src="https://github.com/afse2/afse2/blob/main/Xbox.png" height="30" /></a>
 <a href=" " target="blank"><img align="center" src="https://github.com/afse2/afse2/blob/main/epicGames.png" height="30" /></a>
