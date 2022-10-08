@@ -15,6 +15,7 @@
 <p align="left">
 <a href="http://twitter.com/afse0" target="blank"><img align="center" src="https://github.com/afse2/afse2/blob/main/twitter%20(2).png" title = "Twitter" alt="" height="30" /></a>
 <a href="https://www.linkedin.com/in/faruk-eroglu/" target="blank"><img align="center" src="https://github.com/afse2/afse2/blob/main/linkedin.png" alt="" height="30" /></a>
+<a href=" " target="blank"><img align="center" src="https://github.com/afse2/afse2/blob/main/discord.png" height="30" /></a>
 
 </p>
 
