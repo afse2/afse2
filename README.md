@@ -26,5 +26,6 @@
 
 ### :hammer_and_wrench: Languages and Tools
 
-
+<a href=" " target="blank"><img align="center" src="https://github.com/afse2/afse2/blob/main/java.jpg" height="30" /></a>
+<a href=" " target="blank"><img align="center" src="https://github.com/afse2/afse2/blob/main/appium.png" height="30" /></a>
 
