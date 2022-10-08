@@ -1,6 +1,6 @@
 
 
-<img src="https://github.com/afse2/afse2/blob/main/banner.png" height="500" > 
+<img src="https://github.com/afse2/afse2/blob/main/icons/banner.png" height="500" > 
 
 # :vulcan_salute: I'm Faruk 
 ## A Software Development Engineer in Test
