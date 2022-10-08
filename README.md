@@ -13,19 +13,27 @@
 ### :mailbox_with_no_mail: Contact with me:
 
 <p align="left">
-<a href="http://twitter.com/afse0" target="blank"><img align="center" src="https://github.com/afse2/afse2/blob/main/twitter%20(2).png" title = "Twitter" alt="" height="30" /></a>
-<a href="https://www.linkedin.com/in/faruk-eroglu/" target="blank"><img align="center" src="https://github.com/afse2/afse2/blob/main/linkedin.png" alt="" height="30" /></a>
-<a href="https://discord.gg/QZAN3qJd" target="blank"><img align="center" src="https://github.com/afse2/afse2/blob/main/discord.png" height="30" /></a>
-
+<a href="http://twitter.com/afse0" target="blank"><img align="center" src="https://github.com/afse2/afse2/blob/main/icons/twitter%20(2).png" title = "Twitter" alt="" height="30" /></a>
+<a href="https://www.linkedin.com/in/faruk-eroglu/" target="blank"><img align="center" src="https://github.com/afse2/afse2/blob/main/icons/linkedin.png" alt="" height="30" /></a>
+<a href="https://discord.gg/QZAN3qJd" target="blank"><img align="center" src="https://github.com/afse2/afse2/blob/main/icons/discord.png" height="30" /></a>
 </p>
 
-### Let's play together:
-<a href="https://steamcommunity.com/profiles/76561198166662163/" target="blank"><img align="center" src="https://github.com/afse2/afse2/blob/main/Steam.png" height="30" /></a> 
-<a href=" " target="blank"><img align="center" src="https://github.com/afse2/afse2/blob/main/Xbox.png" height="30" /></a>
-<a href=" " target="blank"><img align="center" src="https://github.com/afse2/afse2/blob/main/epicGames.png" height="30" /></a>
+### :video_game: Let's play together:
+<a href="https://steamcommunity.com/profiles/76561198166662163/" target="blank"><img align="center" src="https://github.com/afse2/afse2/blob/main/icons/Steam.png" height="30" /></a> 
+<a href=" " target="blank"><img align="center" src="https://github.com/afse2/afse2/blob/main/icons/Xbox.png" height="30" /></a>
+<a href=" " target="blank"><img align="center" src="https://github.com/afse2/afse2/blob/main/icons/epicGames.png" height="30" /></a>
 
 ### :hammer_and_wrench: Languages and Tools
 
-<a href=" " target="blank"><img align="center" src="https://github.com/afse2/afse2/blob/main/java.jpg" height="30" /></a>
-<a href=" " target="blank"><img align="center" src="https://github.com/afse2/afse2/blob/main/appium.png" height="30" /></a>
+<a href=" " target="blank"><img align="center" src="https://github.com/afse2/afse2/blob/main/icons/java2.jpg" height="30" /></a>
+<a href=" " target="blank"><img align="center" src="https://github.com/afse2/afse2/blob/main/iconsselenium.png" height="30" /></a>
+<a href=" " target="blank"><img align="center" src="https://github.com/afse2/afse2/blob/main/icons/appium.png" height="30" /></a>
+<a href=" " target="blank"><img align="center" src="https://github.com/afse2/afse2/blob/main/icons/sqlDev.jpg" height="30" /></a>
+<a href=" " target="blank"><img align="center" src="https://github.com/afse2/afse2/blob/main/icons/postman.png" height="30" /></a>
+<a href=" " target="blank"><img align="center" src="https://github.com/afse2/afse2/blob/main/icons/postgreSql.png" height="30" /></a>
+<a href=" " target="blank"><img align="center" src="https://github.com/afse2/afse2/blob/main/icons/js.png" height="30" /></a>
+
+
+
+
 
