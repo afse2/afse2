@@ -2,10 +2,10 @@
 
 <img src="https://github.com/afse2/afse2/blob/main/icons/banner.png" height="500" > 
 
-# :vulcan_salute: I'm Faruk 
-## A Quality Assurance Engineer from Turkey
-
-
+<h1 align="center" style="margin-top: 0px;">:vulcan_salute:I'm Faruk</h1>
+<h1 align="center" style="margin-top: 0px;">A Quality Assurance Engineer from Turkey</h1>
+ 
+ 
 - 🔭 I’m currently working on several Test Automation Project
 - 🌱 I’m currently learning Unreal Engine 5 and C++
 - 📫 How to reach me: <a href="mailto:faruk1eroglu@gmail.com" target="blank"><img align="center" src="https://github.com/afse2/afse2/blob/main/icons/mail.png" title = "mail" alt="" height="30" /></a>
