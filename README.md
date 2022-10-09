@@ -3,7 +3,7 @@
 <img src="https://github.com/afse2/afse2/blob/main/icons/banner.png" height="500" > 
 
 # :vulcan_salute: I'm Faruk 
-## A Software Development Engineer in Test
+## A Quality Assurance Engineer from Turkey
 
 
 - 🔭 I’m currently working on several Test Automation Project
