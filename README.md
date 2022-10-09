@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on several Test Automation Project
 - 🌱 I’m currently learning Unreal Engine 5 and C++
-- 📫 How to reach me: faruk1eroglu@gmail.com
+- 📫 How to reach me: <a href="mailto:faruk1eroglu@gmail.com" target="blank"><img align="center" src="https://github.com/afse2/afse2/blob/main/icons/mail.png" title = "mail" alt="" height="30" /></a>
 
 ### :mailbox_with_no_mail: Contact with me:
 
