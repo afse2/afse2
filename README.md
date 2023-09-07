@@ -26,7 +26,6 @@
 ### :hammer_and_wrench: Languages and Tools
 
 <a href=" " target="blank"><img align="center" src="https://github.com/afse2/afse2/blob/main/icons/java2.jpg" height="30" /></a>
-<a href=" " target="blank"><img align="center" src="https://github.com/afse2/afse2/blob/main/iconsselenium.png" height="30" /></a>
 <a href=" " target="blank"><img align="center" src="https://github.com/afse2/afse2/blob/main/icons/appium.png" height="30" /></a>
 <a href=" " target="blank"><img align="center" src="https://github.com/afse2/afse2/blob/main/icons/sqlDev.jpg" height="30" /></a>
 <a href=" " target="blank"><img align="center" src="https://github.com/afse2/afse2/blob/main/icons/postman.png" height="30" /></a>
